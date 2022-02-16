@@ -2,8 +2,12 @@
 content_type: resource
 description: Lecture notes about the nature and origin of the Earth?s landforms and
   landscapes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-090-the-environment-of-the-earths-surface-spring-2007/00732efbd88be76d0558af2a55737af9_earthsurface_11.pdf
+file: /media/courses/12-090-the-environment-of-the-earths-surface-spring-2007/00732efbd88be76d0558af2a55737af9_earthsurface_11.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Course Textbook
+parent_type: CourseSection
 resourcetype: Document
 title: earthsurface_11.pdf
 uid: 00732efb-d88b-e76d-0558-af2a55737af9
