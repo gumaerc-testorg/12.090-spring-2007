@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Course Textbook
 parent_type: CourseSection
+parent_uid: e5547d7d-e7a0-a5c7-9c95-7d9da9851ca6
 resourcetype: Document
 title: earthsurface_10.pdf
 uid: ab6d240a-c88d-9c3c-222f-09fbea7fc615
