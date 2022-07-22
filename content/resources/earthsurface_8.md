@@ -5,6 +5,7 @@ description: Lecture notes about classification of coasts, beaches, tidal flats,
 file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/1e6c61fd02d7aacdfd55545e609f0eb5_earthsurface_8.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Textbook
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: earthsurface_8.pdf
 uid: 1e6c61fd-02d7-aacd-fd55-545e609f0eb5
 ---
 Lecture notes about classification of coasts, beaches, tidal flats, and estuaries.
-

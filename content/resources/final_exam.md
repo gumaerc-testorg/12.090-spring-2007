@@ -5,6 +5,7 @@ file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/a9fa9b75
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_exam.pdf
 uid: a9fa9b75-c929-ddb4-6f3a-11c600858e93
 ---
 Closed-book final exam.
-
