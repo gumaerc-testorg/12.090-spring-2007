@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes about groundwater, how water gets to be groundwater, a
   home experiment on infiltration, and surface tension and capillarity.
 file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/44356dbb2ab9758bb035bd36cd19c8db_earthsurface_4.pdf
+file_size: 1008037
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
