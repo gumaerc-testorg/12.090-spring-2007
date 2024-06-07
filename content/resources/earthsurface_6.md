@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes about the origin of lakes, the geometry of lakes, and the
   water balance of lakes.
 file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/9b639748912791450162dcdf42e14f71_earthsurface_6.pdf
+file_size: 277173
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
