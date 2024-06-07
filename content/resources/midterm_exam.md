@@ -2,6 +2,7 @@
 content_type: resource
 description: Mid-term exam for the course.
 file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/11aaf40be3a00970ad4148afbec06437_midterm_exam.pdf
+file_size: 21710
 file_type: application/pdf
 learning_resource_types:
 - Exams
