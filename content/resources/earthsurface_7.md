@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about classification of glaciers, distribution of glaciers,
   and glacier ice.
-file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/e0e0b673336f6cd46ee4822a3647dfb7_earthsurface_7.pdf
+file: /ol-ocw-studio-app/courses/12-090-the-environment-of-the-earths-surface-spring-2007/e0e0b673336f6cd46ee4822a3647dfb7_earthsurface_7.pdf
 file_size: 1890392
 file_type: application/pdf
 learning_resource_types: []
