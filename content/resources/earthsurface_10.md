@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about mass wasting, gravity, the downslope of gravity,
   and land slides.
-file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/ab6d240ac88d9c3c222f09fbea7fc615_earthsurface_10.pdf
+file: /ol-ocw-studio-app/courses/12-090-the-environment-of-the-earths-surface-spring-2007/ab6d240ac88d9c3c222f09fbea7fc615_earthsurface_10.pdf
 file_size: 454245
 file_type: application/pdf
 learning_resource_types: []

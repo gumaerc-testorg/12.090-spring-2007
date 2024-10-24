@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about the basic characteristics of rivers, fluvial hydrology,
   and hydrographs.
-file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/ab22aafd99c8d0a8bf36882035058efa_earthsurface_5.pdf
+file: /ol-ocw-studio-app/courses/12-090-the-environment-of-the-earths-surface-spring-2007/ab22aafd99c8d0a8bf36882035058efa_earthsurface_5.pdf
 file_size: 894048
 file_type: application/pdf
 learning_resource_types: []
