@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Closed-book final exam.
-file: /ol-ocw-studio-app/courses/12-090-the-environment-of-the-earths-surface-spring-2007/a9fa9b75c929ddb46f3a11c600858e93_final_exam.pdf
+file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/a9fa9b75c929ddb46f3a11c600858e93_final_exam.pdf
 file_size: 23834
 file_type: application/pdf
 learning_resource_types:

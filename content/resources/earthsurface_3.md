@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about the topography of the Earth?s surface.
-file: /ol-ocw-studio-app/courses/12-090-the-environment-of-the-earths-surface-spring-2007/e0f5ec234464ec8461defe0c0e04f5b8_earthsurface_3.pdf
+file: /courses/12-090-the-environment-of-the-earths-surface-spring-2007/e0f5ec234464ec8461defe0c0e04f5b8_earthsurface_3.pdf
 file_size: 415483
 file_type: application/pdf
 learning_resource_types: []
